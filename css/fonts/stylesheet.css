@@ -1,5 +1,5 @@
 @font-face {
-    font-family: 'Times Now-Light';
+    font-family: 'Times-Now-Light';
     src: url('TimesNow-Light.woff2') format('woff2'),
         url('TimesNow-Light.woff') format('woff');
     font-weight: normal;
@@ -8,12 +8,29 @@
 
 
 @font-face {
-    font-family: 'helvetica_neueregular';
+    font-family: 'Helvetica-Neue-Light-Ext';
     src: url('helveticaneue-lightext-webfont.woff2') format('woff2'),
          url('helveticaneue-lightext-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
 }
+
+@font-face {
+    font-family: 'HelveticaNeue';
+    src: url('HelveticaNeue.woff2') format('woff2'),
+        url('HelveticaNeue.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+/*@font-face {
+    font-family: 'Helvetica-Light';
+    src: url('Helvetica-Light.woff2') format('woff2'),
+        url('Helvetica-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}*/
 
 
