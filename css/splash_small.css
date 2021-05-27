@@ -141,6 +141,10 @@
 		display: none;
 	}
 	
+	.about-copy {
+		 top: 50%;
+	}
+	
 	.about-copy p {
 		font-size:15.4px;
 		line-height:20px;

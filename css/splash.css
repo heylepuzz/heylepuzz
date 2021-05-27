@@ -424,7 +424,7 @@ body.about {
 .about-copy {
 	position:absolute;
 	z-index:11;
-    top: 50%;
+    top: 54%;
     left: 50%;
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
@@ -440,11 +440,11 @@ body.about {
 	letter-spacing:0px;
 	text-align:center;
 	-webkit-text-stroke: 0.8px black;	
-	transform:scale(0.7,1); 
-	-webkit-transform:scale(0.7,1); 
-	-moz-transform:scale(0.7,1); 
-	-ms-transform:scale(0.7,1); 
-	-o-transform:scale(0.7,1); 
+	transform:scale(0.8,1); 
+	-webkit-transform:scale(0.8,1); 
+	-moz-transform:scale(0.8,1); 
+	-ms-transform:scale(0.8,1); 
+	-o-transform:scale(0.8,1); 
 }
 
 .about-copy p.about-sans {
