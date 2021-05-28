@@ -13,6 +13,10 @@ body {
 	opacity:0;
 }
 
+div#preload {
+    display: none;
+}
+
 /*
 p {
 	font-family:'Times Now-Light';
