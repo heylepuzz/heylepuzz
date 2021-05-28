@@ -6,7 +6,7 @@ html {
 
 body {
 	height:100%;
-	background-color:#ffd340;
+	background-color:#FFD931;
 }
 
 .dead p {
@@ -399,7 +399,7 @@ body.about {
     border-radius: 50%;
     height: 262px;
     width: 262px;
-    border: 30px solid #FFD340;
+    border: 30px solid #FFD931;
     margin-right: 447px;
 }
 
@@ -409,7 +409,7 @@ body.about {
   right: 0px;
   width: 210px;
   height: 170px;
-  background: #FFD340;
+  background: #FFD931;
   border-radius: 50%;
   content: " ";
 }
