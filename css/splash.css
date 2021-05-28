@@ -10,7 +10,7 @@ body {
 }
 
 .dead p {
-	display:none;
+	opacity:0;
 }
 
 /*
