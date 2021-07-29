@@ -247,11 +247,12 @@ p {
 }
 
 
-.hEMewN.hEMewN, .fptOlf.fptOlf {
+.hEMewN.hEMewN, .fptOlf.fptOlf, .czmuNU.czmuNU, .fZHgtb.fZHgtb, .cxWQXf.cxWQXf, .gBKwYK.gBKwYK {
 	padding: 0px 0px !important;
 }
 
-.etaOCU.etaOCU.etaOCU.etaOCU.etaOCU.etaOCU, input::placeholder {
+/*ENTER EMAIL FIELD TEXT*/
+.ihwEzX.ihwEzX.ihwEzX.ihwEzX.ihwEzX.ihwEzX, input::placeholder {
 	font-family:'Times-Now-Light'!important;
 	height:110px!important;
 	text-align: center !important;
@@ -272,16 +273,17 @@ p {
 
 
 
-.etaOCU.etaOCU.etaOCU.etaOCU.etaOCU.etaOCU:focus {
+.ihwEzX.ihwEzX.ihwEzX.ihwEzX.ihwEzX.ihwEzX:focus {
 	box-shadow: rgb(0 0 0) 0px 0px 0px!important;
 }
 
-.etaOCU.etaOCU.etaOCU.etaOCU.etaOCU.etaOCU:focus::placeholder {
+.ihwEzX.ihwEzX.ihwEzX.ihwEzX.ihwEzX.ihwEzX:focus::placeholder {
 	color:#CDCDC8!important;
   	-webkit-text-stroke: 3px #CDCDC8;	 
 }
 
-.jEnZGi.jEnZGi.jEnZGi.jEnZGi.jEnZGi.jEnZGi {
+/*ENTER EMAIL FIELD FORM*/
+.ieXDZx.ieXDZx.ieXDZx.ieXDZx.ieXDZx.ieXDZx {
 	font-family:'Times-Now-Light'!important;
 	height:110px!important;
 	text-align: center !important;
@@ -300,16 +302,17 @@ p {
 
 
 
-.jEnZGi.jEnZGi.jEnZGi.jEnZGi.jEnZGi.jEnZGi:focus {
+.ieXDZx.ieXDZx.ieXDZx.ieXDZx.ieXDZx.ieXDZx:focus {
 	box-shadow: rgb(0 0 0) 0px 0px 0px!important;
 }
 
-.jEnZGi.jEnZGi.jEnZGi.jEnZGi.jEnZGi.jEnZGi:focus::placeholder {
+.ieXDZx.ieXDZx.ieXDZx.ieXDZx.ieXDZx.ieXDZx:focus::placeholder {
 	color:#CDCDC8!important;
   	-webkit-text-stroke: 3px #CDCDC8;	 
 }
 
-.fPRXvs.fPRXvs.fPRXvs.fPRXvs.fPRXvs.fPRXvs {
+/*SUBMIT BUTTON*/
+.jLuYsT.jLuYsT.jLuYsT.jLuYsT.jLuYsT.jLuYsT {
 	background: url("img/arrow.svg") no-repeat top left !important;
     height: 6px;
     width: 50px;
@@ -317,7 +320,7 @@ p {
 	text-align: center;
 }
 
-.lnviXl.lnviXl {
+.kHXJYP.kHXJYP {
 	margin: 0 auto;
 }
 
@@ -346,7 +349,7 @@ p {
 
 
 /*Required*/
-.ioEQra.ioEQra {
+.fuOFIe.fuOFIe  {
 	left:120px!important;
 	width: 150px;
 	top:2px!important;
