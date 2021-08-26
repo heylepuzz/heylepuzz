@@ -221,7 +221,7 @@ p {
 	letter-spacing:2px!important;	
 }
 
-.kzkVSS.kzkVSS.kzkVSS.kzkVSS.kzkVSS.kzkVSS .ql-container p {
+.dUoLAQ.dUoLAQ.dUoLAQ.dUoLAQ.dUoLAQ.dUoLAQ.dUoLAQ.dUoLAQ .ql-container p {
  	text-decoration: none;
 	text-transform:uppercase!important;
 	font-family:'Helvetica-Neue-Light', sans-serif!important;	 
@@ -251,8 +251,16 @@ p {
 	padding: 0px 0px !important;
 }
 
+.dITnff.dITnff {
+	padding: 0px 0px !important;	
+}
+
+.itrmhl.itrmhl {
+	padding: 10px 0px !important;		
+}
+
 /*ENTER EMAIL FIELD TEXT*/
-.ihwEzX.ihwEzX.ihwEzX.ihwEzX.ihwEzX.ihwEzX, input::placeholder {
+.ikHPKM.ikHPKM.ikHPKM.ikHPKM.ikHPKM.ikHPKM, input::placeholder {
 	font-family:'Times-Now-Light'!important;
 	height:110px!important;
 	text-align: center !important;
@@ -273,17 +281,17 @@ p {
 
 
 
-.ihwEzX.ihwEzX.ihwEzX.ihwEzX.ihwEzX.ihwEzX:focus {
+.ikHPKM.ikHPKM.ikHPKM.ikHPKM.ikHPKM.ikHPKM:focus {
 	box-shadow: rgb(0 0 0) 0px 0px 0px!important;
 }
 
-.ihwEzX.ihwEzX.ihwEzX.ihwEzX.ihwEzX.ihwEzX:focus::placeholder {
+.ikHPKM.ikHPKM.ikHPKM.ikHPKM.ikHPKM.ikHPKM:focus::placeholder {
 	color:#CDCDC8!important;
   	-webkit-text-stroke: 3px #CDCDC8;	 
 }
 
 /*ENTER EMAIL FIELD FORM*/
-.ieXDZx.ieXDZx.ieXDZx.ieXDZx.ieXDZx.ieXDZx {
+.fhmQhu.fhmQhu.fhmQhu.fhmQhu.fhmQhu.fhmQhu {
 	font-family:'Times-Now-Light'!important;
 	height:110px!important;
 	text-align: center !important;
@@ -302,17 +310,17 @@ p {
 
 
 
-.ieXDZx.ieXDZx.ieXDZx.ieXDZx.ieXDZx.ieXDZx:focus {
+.fhmQhu.fhmQhu.fhmQhu.fhmQhu.fhmQhu.fhmQhu:focus {
 	box-shadow: rgb(0 0 0) 0px 0px 0px!important;
 }
 
-.ieXDZx.ieXDZx.ieXDZx.ieXDZx.ieXDZx.ieXDZx:focus::placeholder {
+.fhmQhu.fhmQhu.fhmQhu.fhmQhu.fhmQhu.fhmQhu:focus::placeholder {
 	color:#CDCDC8!important;
   	-webkit-text-stroke: 3px #CDCDC8;	 
 }
 
 /*SUBMIT BUTTON*/
-.jLuYsT.jLuYsT.jLuYsT.jLuYsT.jLuYsT.jLuYsT {
+.ixeMGl.ixeMGl.ixeMGl.ixeMGl.ixeMGl.ixeMGl {
 	background: url("img/arrow.svg") no-repeat top left !important;
     height: 6px;
     width: 50px;
@@ -320,7 +328,7 @@ p {
 	text-align: center!important;
 }
 
-.cxWQXf.cxWQXf {
+.iRlXmm.iRlXmm {
 	margin: 0 auto;
 }
 
@@ -328,8 +336,9 @@ p {
 
 /*Thank you Message*/
 
-.kzkVSS.kzkVSS.kzkVSS.kzkVSS.kzkVSS.kzkVSS .ql-editor {
+.dUoLAQ.dUoLAQ.dUoLAQ.dUoLAQ.dUoLAQ.dUoLAQ.dUoLAQ.dUoLAQ .ql-editor {
 	width:320px!important;
+		margin: 0 auto;
 }
 
 .kl-private-quill-wrapper-Lkqws1.kl-private-quill-wrapper-Lkqws1.kl-private-quill-wrapper-Lkqws1 .ql-editor span {
@@ -350,26 +359,25 @@ p {
 
 
 /*Required*/
-.fuOFIe.fuOFIe  {
+.ikLKYa.ikLKYa {
 	left:120px!important;
 	width: 150px;
 	top:2px!important;
 }
 
 /*Offline*/
-.iLauD.iLauD {
+.CymaC.CymaC {
 	background: rgb(255, 255, 255, 0)!important;
 	    height: 30px;
 }
 
 /*Loader*/ 
-.bSMlxZ.bSMlxZ.bSMlxZ.bSMlxZ.bSMlxZ.bSMlxZ {
+.cLXfRf.cLXfRf.cLXfRf.cLXfRf.cLXfRf.cLXfRf {
 		background: rgb(255, 255, 255, 0)!important;
 		color: rgb(255, 255, 255, 0)!important;
 		font-size:0px!important;
-	
-		
 }
+
 input:focus,
 select:focus,
 textarea:focus,
